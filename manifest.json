@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 1,
 
   "name": "Zawgyi Text to Unicode",
   "description": "Convert Zawgyi Text to Unicode Text",
-  "version": "2.0",
+  "version": "1.0",
   "permissions": [
     "tabs",
     "contextMenus"
@@ -26,5 +26,6 @@
     "16": "icon16.png",
     "48": "icon48.png",
     "128": "icon128.png"
+    "256": "icon256.png"
   }
 }
